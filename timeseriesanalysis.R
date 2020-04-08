@@ -1,6 +1,6 @@
 # Reading data
 library(readxl)
-dados<-read_excel("C:/Users/OEM/Desktop/SeriesArtigo/basepoluicao.xls")
+dados<-read_excel("basepoluicao.xls")
 attach(dados)
 
 # Plotting data
