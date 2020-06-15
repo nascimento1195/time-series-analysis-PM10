@@ -22,6 +22,8 @@ To run the [code](https://github.com/nascimento1195/time-series-analysis-PM10/bl
 
 All the code is commented, so all my steps towards the development of the model are explained there.
 
+There are two data files, they are the same except for the extensios (.txt and .xls). Feel free to use the one you prefer.
+
 ## Author
 
 * [Matheus Julio Nascimento](https://www.linkedin.com/in/matheus-nascimento-88b8b0168/)
